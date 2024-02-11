@@ -1,0 +1,14 @@
+p{
+    background-color: rgb(242, 235, 235);
+    color: #948e8e;
+    width: 350px;
+    height: 18px;
+    display:inline-block;
+    border-radius: 20px;
+    padding-top: 38px;
+}
+img{
+    border-radius: 25px;
+    padding: 5px;
+    
+}
