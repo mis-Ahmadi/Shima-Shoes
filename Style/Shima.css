@@ -1,14 +1,134 @@
-p{
+#p1 {
     background-color: rgb(242, 235, 235);
     color: #948e8e;
     width: 350px;
-    height: 18px;
-    display:inline-block;
-    border-radius: 20px;
-    padding-top: 38px;
+    height: 5px;
+    display: inline-block;
+    border-radius: 15px;
+    padding: 20px 10px 20px 32px;
 }
-img{
+
+#p2 {
+    font-size: 42px;
+    color: mediumseagreen;
+    margin-left: 500px;
+    margin-right: 450px;
+    margin-top: 0px;
+}
+
+img {
     border-radius: 25px;
-    padding: 5px;
-    
+    padding: 1px 5px 0px 5px;
+    margin: 20px 90px 0px 120px;
+
+}
+
+#Img0 {
+    margin: 1px 20px 0px 80px;
+
+}
+
+#Img2 {
+    margin-left: 165px;
+}
+
+p {
+    display: inline-block;
+
+
+    padding: 20px 40px 20px 40px;
+}
+
+#Img1 {
+    margin: 0px;
+    width: 50%;
+}
+
+.menue {
+    display: inline-block;
+}
+
+#Img4 {
+    display: inline-block;
+    margin-left: 800px;
+    margin-bottom: 120px;
+    margin-top: 0px;
+    width: 15px;
+
+
+}
+
+#Img3 {
+    display: inline-block;
+    width: 300px;
+    margin-bottom: 190px;
+    margin-top: 0px;
+}
+
+.Imge {
+
+    padding: 15px 3px 15px 3p;
+    background-color: rgb(229, 229, 233);
+    border-radius: 5px;
+    margin: 0px 2px 0px 2px;
+
+}
+
+#M1 {
+    margin-left: 15%;
+
+}
+
+.P-1 {
+    margin-top: 0px;
+    font-size: 16px;
+    display: inline-block;
+    padding: 0px 6px 0px 6px;
+    margin: 0% 2%;
+}
+
+#P3 {
+    display: inline-block;
+    margin-left: 360px;
+}
+
+.K {
+    display: inline-block;
+    margin: 0px 900px 0px 40px;
+}
+
+.Imge-1 {
+    display: inline-block;
+    margin-top: 5%;
+    background-color: rgb(76, 156, 116);
+    padding: 5%;
+    margin-left: 0%;
+    margin-right: 0%;
+    border-radius: 0px;
+ 
+}
+#img-1{
+    margin-left: 16%;
+}
+#p-1{
+    font-size: 30px;
+    font-family: Arial,;
+    margin-left: 65%;
+
+}
+.imge--1{
+    margin: 0px 30px;
+    background-color: aliceblue;
+    border-radius: 5px;
+    border-color: #747171;
+}
+#i-1{
+    margin-left: 20%;
+}
+#imge-11{
+    margin-left: 20%;
+}
+#m-1{
+    margin-left: 20%;
+    margin-top: 20%;
 }
